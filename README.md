@@ -26,16 +26,31 @@ Dio Innovation - Recriando a Interface do Netflix
   <a href="https://github.com/ljanotte/dio-desafil-interface-netflix#-baixar">Baixar</a>
 </p>
 
-
 ---
 
 ## 📝 Sobre 
 
+<br>
+
 Este **repositório** tem como objetivo armazenar os **Desafios** do curso **Bootcamp Dio Innovation One** com intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+
+<br>
+
+---
+
+## 📝 Descrição
+
+<br>
+
+ Recriar a interface do principal site de streaming mundial, utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto se aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+
+<br>
 
 ---
 
 ## 💻 Tecnologias 
+
+<br>
 
 Os desafios são desenvolvidos e utilizandos as seguintes tecnologias e bibliotecas:
 
@@ -43,16 +58,24 @@ Os desafios são desenvolvidos e utilizandos as seguintes tecnologias e bibliote
 - ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - ⚛️ [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2)
 
+<br>
+
 ---
 
 ## 🛠 Ferramentas
 
+<br>
+
 - Google Chrome
 - Visual Studio Code
+
+<br>
 
 ---
 
 ## 💾 Baixar
+
+<br>
 
 ```bash
 
@@ -67,6 +90,9 @@ $ npm install
 $ npm start
 
 ```
+
+<br>
+
 ---
 <h3 align="center">
 

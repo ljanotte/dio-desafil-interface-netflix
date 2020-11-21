@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ljanotte/dio-desafil-interface-netflix/issues"
   },
-  "homepage": "https://github.com/ljanotte/dio-desafil-interface-netflix#readme"
+  "homepage": "https://github.com/ljanotte/dio-desafil-interface-netflix#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
 }
